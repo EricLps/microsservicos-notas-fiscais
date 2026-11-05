@@ -1,5 +1,3 @@
-# Korp_Teste_EricLopesWinkelmann
-
 ## Descrição
 O projeto consiste em um sistema distribuído para emissão de Notas Fiscais e controle de estoque, construído utilizando a arquitetura de microsserviços. O sistema garante que notas fiscais só sejam emitidas se houver saldo disponível em estoque, efetuando uma reserva temporária otimista e assíncrona.
 
